@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is Yinshuang's home on the web!
+Welcome! I am a fifth-year PhD candidate at the University of Texas at Austin. My research focuses on complex socio-technical engineering design based on methodologies including complex network theory, machine learning, and optimization approach.
+
+I earned my Master's and Bachelor’s degrees in Mechanical Engineering from The University of Electronic Science and Technology of China. Before starting my PhD study, I also have one year of industrial working experience at SAIC Volkswagen in Shanghai. 
 
 <!--
 A data-driven personal website
