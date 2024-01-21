@@ -8,9 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a fifth-year PhD candidate at the University of Texas at Austin. My research focuses on complex socio-technical engineering design based on methodologies including complex network theory, machine learning, and optimization approach.
+Welcome! I am currently a fifth-year Ph.D. candidate in the [Walker Department of Mechanical Engineering at the University of Texas at Austin](https://www.me.utexas.edu/) under the supervision of [Dr. Zhenghui Sha](https://www.me.utexas.edu/people/faculty-directory/sha). I earned my M.S. and B.Eng. in Mechanical Engineering at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Before my Ph.D., I gained a year of valuable industry experience at [SAIC Volkswagen in Shanghai](https://volkswagengroupchina.com.cn/en/partner/saicvolkswagen).  
 
-I earned my Master's and Bachelor’s degrees in Mechanical Engineering from The University of Electronic Science and Technology of China. Before starting my PhD study, I also have one year of industrial working experience at SAIC Volkswagen in Shanghai. 
+Research Interests
+======
+My broad research interests span the domains of 
+* complex socio-technical system (STS) engineering and design,
+* network science,
+* machine learning in system engineering,
+* decision-making in complex system design,
+* human-AI collaborative design.
+
+These interests find applications in diverse areas, including but not limited to smart power grids, EV charging systems, EV market ecosystems, and intelligent transportation systems. Throughout my Ph.D. studies, I have accumulated substantial research experience, particularly in network-based complex socio-technical system engineering and design. My research findings have been disseminated through publications in reputable engineering journals and conferences such as [*Design Science*](https://www.cambridge.org/core/journals/design-science), [*Journal of Mechanical Engineering*](https://asmedigitalcollection.asme.org/mechanicaldesign), [*IDETC/CIE*](https://event.asme.org/IDETC-CIE-2023), [*ICED*](https://iced21.designsociety.org/#:~:text=16th%20%2D%2020th%20August%202021,for%20designers%20and%20product%20developers.), [*CESUN*](https://cesun.org/), [*NetSci*](https://networks2021.net/), and [*CSER*](https://cser.info/cser2023/).
+
+ 
 
 <!--
 A data-driven personal website
