@@ -1,4 +1,5 @@
 ---
+layout: archive_about_page
 permalink: /
 title: "About Me"
 excerpt: "About Me"
