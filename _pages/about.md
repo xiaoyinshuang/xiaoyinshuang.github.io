@@ -30,6 +30,12 @@ These interests find applications in diverse areas, including but not limited to
       <ul>
         <li>News item 1</li>
         <li>News item 2</li>
+        <li>News item 2</li>
+        <li>News item 2</li>
+        <li>News item 2</li>
+        <li>News item 2</li>
+        <li>News item 2</li>
+        <li>News item 2</li>
         <!-- Add more news items as needed -->
       </ul>
     </div>
