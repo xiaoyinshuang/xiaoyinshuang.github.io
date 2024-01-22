@@ -1,5 +1,5 @@
 ---
-title: "Product Competition Analysis for Engineering Design: A Network Mining Approach [[Paper]](http://xiaoyinshuang.github.io/yx/files/conference4.pdf)"
+title: "Product Competition Analysis for Engineering Design: A Network Mining Approach [[Paper]](/files/conference4.pdf)"
 collection: publications
 permalink: /publication/conference_4_2023_03_16
 tags: conference
