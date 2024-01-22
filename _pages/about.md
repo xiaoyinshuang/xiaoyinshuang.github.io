@@ -33,6 +33,26 @@ These interests find applications in diverse areas, including but not limited to
         <h3>News Post 2</h3>
         <p>Content of News Post 2...</p>
     </div>
+    <div class="news-post">
+        <h3>News Post 1</h3>
+        <p>Content of News Post 1...</p>
+    </div>
+    <div class="news-post">
+        <h3>News Post 1</h3>
+        <p>Content of News Post 1...</p>
+    </div>
+    <div class="news-post">
+        <h3>News Post 1</h3>
+        <p>Content of News Post 1...</p>
+    </div>
+    <div class="news-post">
+        <h3>News Post 1</h3>
+        <p>Content of News Post 1...</p>
+    </div>
+    <div class="news-post">
+        <h3>News Post 1</h3>
+        <p>Content of News Post 1...</p>
+    </div>
     <!-- Add more news posts as needed -->
 </div>
 
