@@ -17,8 +17,8 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% if post.tags contains 'journal' %}
     {% include archive-single.html %}
-    {% if post.authors %}
-      <p><strong>Authors:</strong> {{ post.authors }}</p>
+    {% if page.authors %}
+      <p><strong>Authors:</strong> {{ page.authors | markdownify }}</p>
     {% endif %}
   {% endif %}
 {% endfor %}
@@ -27,8 +27,8 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% if post.tags contains 'conference' %}
     {% include archive-single.html %}
-    {% if post.authors %}
-      <p><strong>Authors:</strong> {{ post.authors }}</p>
+    {% if page.authors %}
+      <p><strong>Authors:</strong> {{ page.authors | markdownify }}</p>
     {% endif %}
   {% endif %}
 {% endfor %}
