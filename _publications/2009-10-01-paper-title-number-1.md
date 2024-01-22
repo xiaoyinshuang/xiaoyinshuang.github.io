@@ -10,6 +10,6 @@ citation: 'Xiao, Y.S., Ren, D., Xiao, P. and Du, P.A., 2019. &quot;An equivalent
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://xiaoyinshuang.github.io/files/journal1.pdf)
 
 Recommended citation: Xiao, Y.S., Ren, D., Xiao, P. and Du, P.A., 2019. &quot;An equivalent modeling method for the radiated electromagnetic interference of PCB based on near-field scanning.&quot; <i>The Applied Computational Electromagnetics Society Journal (ACES)</i>, pp.784-791.
