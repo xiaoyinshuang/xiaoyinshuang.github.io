@@ -1,5 +1,5 @@
 ---
-title: "Network-Based Analysis of Heterogeneous Consideration-Then Choice Customer Preferences with Market Segmentations [[Paper]](http://xiaoyinshuang.github.io/yx/files/conference5.pdf)"
+title: "Network-Based Analysis of Heterogeneous Consideration-Then Choice Customer Preferences with Market Segmentations [[Paper]](/files/conference5.pdf)"
 collection: publications
 permalink: /publication/conference_5_2023_03_17
 tags: conference
