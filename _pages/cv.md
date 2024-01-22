@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="https://xiaoyinshuang.github.io/yx/files/CV_YX.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-You can download a PDF copy of my CV [here](https://xiaoyinshuang.github.io/yx/files/CV_YX.pdf).
+<iframe src="/files/CV_YX.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+You can download a PDF copy of my CV [here](/files/CV_YX.pdf).
 
 <!--
 {% include base_path %}
