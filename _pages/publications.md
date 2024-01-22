@@ -11,6 +11,18 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign sorted_publications = site.publications | sort: 'date' | reverse %}
+
+# Journal Papers
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.tag contains 'journal' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+# Conference Papers
+{% for post in site.publications reversed %}
+  {% if post.tag contains 'conference' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
