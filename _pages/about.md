@@ -26,7 +26,7 @@ These interests find applications in diverse areas, including but not limited to
     <!-- Directly include the content of your news section -->
     <div>
       <!-- Insert your news content here -->
-      <h2>Latest News</h2>
+      <h2>News</h2>
       <ul>
         <li>News item 1</li>
         <li>News item 2</li>
