@@ -15,14 +15,14 @@ author_profile: true
 
 # Journal Papers
 {% for post in site.publications reversed %}
-  {% if post.tag contains 'journal' %}
+  {% if post.tags contains 'journal' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
 # Conference Papers
 {% for post in site.publications reversed %}
-  {% if post.tag contains 'conference' %}
+  {% if post.tags contains 'conference' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
