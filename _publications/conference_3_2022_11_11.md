@@ -1,5 +1,5 @@
 ---
-title: "Travel Links Prediction In Shared Mobility Networks Using Graph Neural Network Models [[Paper]](http://xiaoyinshuang.github.io/yx/files/conference3.pdf) [[DOI]](https://doi.org/10.1115/DETC2022-90694)"
+title: "Travel Links Prediction In Shared Mobility Networks Using Graph Neural Network Models [[Paper]](/files/conference3.pdf) [[DOI]](https://doi.org/10.1115/DETC2022-90694)"
 collection: publications
 permalink: /publication/conference_3_2022_11_11
 tags: conference
