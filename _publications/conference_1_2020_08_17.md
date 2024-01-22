@@ -1,5 +1,5 @@
 ---
-title: "Towards engineering complex socio-technical systems using network motifs: A case study on bike-sharing systems"
+title: "Towards Engineering Complex Socio-Technical Systems Using Network Motifs: A Case Study On Bike-Sharing Systems"
 collection: publications
 permalink: /publication/conference_1_2020_08_17
 tags: conference
