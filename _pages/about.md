@@ -21,6 +21,8 @@ My broad research interests span the domains of
 
 These interests find applications in diverse areas, including but not limited to manufacturing systems, market systems, energy systems (e.g., smart power grid), EV ecosystems, and smart transportation systems. Throughout my Ph.D. studies, I have accumulated substantial research experience, particularly in network-based complex socio-technical system engineering and design. My research findings have been disseminated through publications in reputable engineering journals and conferences such as [*Design Science*](https://www.cambridge.org/core/journals/design-science), [*Journal of Mechanical Engineering*](https://asmedigitalcollection.asme.org/mechanicaldesign), [*IDETC/CIE*](https://event.asme.org/IDETC-CIE-2023), [*ICED*](https://iced21.designsociety.org/#:~:text=16th%20%2D%2020th%20August%202021,for%20designers%20and%20product%20developers.), [*CESUN*](https://cesun.org/), [*NetSci*](https://networks2021.net/), and [*CSER*](https://cser.info/cser2023/).
 
+<div class="post"><article>{%- include news.html %}</article></div>
+
 
 <!--
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=R_jX8VBZ0VOhrOvxXZ_ZTIgKn7Fxg_Vb1piiI5xolhc&cl=ffffff&w=210&h=140"></script>
