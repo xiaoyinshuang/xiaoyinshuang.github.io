@@ -1,0 +1,23 @@
+// assets/css/style.scss
+
+.news-scroll-box {
+  max-height: 300px;  // Adjust the maximum height as needed
+  overflow-y: auto;
+  border: 1px solid #ddd;  // Add a border for better visibility
+  padding: 10px;
+}
+
+.news-scroll-box ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.news-scroll-box li {
+  margin-bottom: 10px;
+}
+
+.news-date {
+  font-weight: bold;
+  margin-right: 5px;
+}
