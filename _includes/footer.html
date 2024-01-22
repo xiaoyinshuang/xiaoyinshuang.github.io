@@ -1,5 +1,17 @@
 {% include base_path %}
 
+<style>
+  /* Add this style to adjust the height of the footer */
+  .page__footer {
+    height: 100px; /* Set the desired height in pixels or any other valid CSS unit */
+  }
+
+  /* Add other styles as needed */
+  .page__footer-copyright {
+    /* Additional styles for the copyright section if needed */
+  }
+</style>
+
 <div align="center"><a href='https://mapmyvisitors.com/web/1bvrj'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=080808&w=200&t=tt&d=12fBuuCIKyw5o2AZO_p9lQUmlRLucbGkP-D7kREDGIE&co=ffffff&ct=808080'/></a></div>
 
 <div align="center" class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>.</div>
