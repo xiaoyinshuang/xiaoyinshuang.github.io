@@ -14,6 +14,7 @@ author_profile: true
 {% assign sorted_publications = site.publications | sort: 'date' | reverse %}
 
 ## Journal Papers
+------
 {% for post in site.publications reversed %}
   {% if post.tags contains 'journal' %}
     {% include archive-single.html %}
@@ -24,6 +25,7 @@ author_profile: true
 {% endfor %}
 
 ## Conference Papers
+------
 {% for post in site.publications reversed %}
   {% if post.tags contains 'conference' %}
     {% include archive-single.html %}
