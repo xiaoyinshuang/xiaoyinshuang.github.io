@@ -1,5 +1,5 @@
 ---
-title: "Evolutionary Co-Mention Network Analysis via Social Media Mining [[Paper]](http://xiaoyinshuang.github.io/yx/files/conference6.pdf) [[DOI]](https://doi.org/10.1115/DETC2023-115114)"
+title: "Evolutionary Co-Mention Network Analysis via Social Media Mining [[Paper]](/files/conference6.pdf) [[DOI]](https://doi.org/10.1115/DETC2023-115114)"
 collection: publications
 permalink: /publication/conference_6_2022_11_11
 tags: conference
