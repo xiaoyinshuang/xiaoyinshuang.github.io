@@ -21,10 +21,10 @@ My broad research interests span the domains of
 
 These interests find applications in diverse areas, including but not limited to manufacturing systems, market systems, energy systems (e.g., smart power grid), EV ecosystems, and smart transportation systems. Throughout my Ph.D. studies, I have accumulated substantial research experience, particularly in network-based complex socio-technical system engineering and design. My research findings have been disseminated through publications in reputable engineering journals and conferences such as [*Design Science*](https://www.cambridge.org/core/journals/design-science), [*Journal of Mechanical Engineering*](https://asmedigitalcollection.asme.org/mechanicaldesign), [*IDETC/CIE*](https://event.asme.org/IDETC-CIE-2023), [*ICED*](https://iced21.designsociety.org/#:~:text=16th%20%2D%2020th%20August%202021,for%20designers%20and%20product%20developers.), [*CESUN*](https://cesun.org/), [*NetSci*](https://networks2021.net/), and [*CSER*](https://cser.info/cser2023/).
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=R_jX8VBZ0VOhrOvxXZ_ZTIgKn7Fxg_Vb1piiI5xolhc&cl=ffffff&w=210&h=140"></script>
-
 
 <!--
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=R_jX8VBZ0VOhrOvxXZ_ZTIgKn7Fxg_Vb1piiI5xolhc&cl=ffffff&w=210&h=140"></script>
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
