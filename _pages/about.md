@@ -23,7 +23,7 @@ These interests find applications in diverse areas, including but not limited to
 
 News
 ------
-- [Jan 10, 2024] &nbsp;&nbsp;&nbsp; I was invited to serve as a reviewer for [CSER 2024](https://cser.info/cser2023/cser2024/)
+- [Jan 10, 2024] &nbsp;&nbsp; I was invited to serve as a reviewer for [CSER 2024](https://cser.info/cser2023/cser2024/)
 
 
 
