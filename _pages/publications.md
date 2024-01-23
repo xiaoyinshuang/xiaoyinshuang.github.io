@@ -16,7 +16,7 @@ author_profile: true
 ## Journal Papers
 ------
 {% for post in site.publications reversed %}
-  {% if post.tags contains 'journal' %}
+  {% if post.tags contains 'Journal' %}
     {% include archive-single.html %}
     {% if page.authors %}
       <p><strong>Authors:</strong> {{ page.authors | markdownify }}</p>
@@ -27,7 +27,7 @@ author_profile: true
 ## Conference Papers
 ------
 {% for post in site.publications reversed %}
-  {% if post.tags contains 'conference' %}
+  {% if post.tags contains 'Conference' %}
     {% include archive-single.html %}
     {% if page.authors %}
       <p><strong>Authors:</strong> {{ page.authors | markdownify }}</p>
