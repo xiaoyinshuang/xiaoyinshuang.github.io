@@ -30,12 +30,9 @@ These interests find applications in diverse areas, including but not limited to
     <div class="news-scroll-box">
       <h2>News</h2>
       <ul>
-        {% for news_item in site.news %}
-          <li>
-            <span class="news-date">{{ news_item.date | date: "%B %d, %Y" }}:</span>
-            <span class="news-title">{{ news_item.title }}</span>
-          </li>
-        {% endfor %}
+        <li>News item 1</li>
+        <li>News item 2</li>
+        <!-- Add more news items as needed -->
       </ul>
     </div>
   </article>
