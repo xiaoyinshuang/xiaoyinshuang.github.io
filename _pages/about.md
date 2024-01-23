@@ -23,7 +23,9 @@ These interests find applications in diverse areas, including but not limited to
 
 News
 ------
-- [Jan 10, 2024] &nbsp;&nbsp; I was invited to serve as a reviewer for [CSER 2024](https://cser.info/cser2023/cser2024/)
+- [01/2024] &nbsp;&nbsp; Served as a reviewer for [CSER 2024](https://cser.info/cser2023/cser2024/)
+- [11/2023] &nbsp;&nbsp; Served as a volunteer for [CESUN 2023](https://cesun.org/)
+- [06/2023] &nbsp;&nbsp; I will join [Ford Motor Company](https://www.ford.com/) as a data scientist intern
 
 
 
