@@ -30,8 +30,8 @@ These interests find applications in diverse areas, including but not limited to
     <div class="news-scroll-box">
       <h2>News</h2>
       <ul>
-        <li>News item 1</li>
-        <li>News item 2</li>
+        <li>:speech_balloon: I was invited to serve as a reviewer for [CSER 2024](https://cser.info/cser2023/cser2024/)</li>
+        <li>:speech_balloon: I was invited to serve as a reviewer for [CSER 2024](https://cser.info/cser2023/cser2024/)</li>
         <!-- Add more news items as needed -->
       </ul>
     </div>
