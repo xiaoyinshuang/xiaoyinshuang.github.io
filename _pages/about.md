@@ -23,7 +23,6 @@ These interests find applications in diverse areas, including but not limited to
 
 
   <!-- News Window with Scroll-through Function -->
-<link rel="stylesheet" type="text/css" href="{{ '/assets/css/style.css' | relative_url }}">
   
 <div class="post">
   <article>
