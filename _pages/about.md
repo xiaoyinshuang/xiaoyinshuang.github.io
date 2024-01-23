@@ -23,30 +23,7 @@ These interests find applications in diverse areas, including but not limited to
 
 
   <!-- News Window with Scroll-through Function -->
-<style>
-  /* Inline styles for the scrolling news box */
-  .news-scroll-box {
-    max-height: 300px;  // Adjust the maximum height as needed
-    overflow-y: auto;
-    border: 1px solid #ddd;  // Add a border for better visibility
-    padding: 10px;
-  }
-
-  .news-scroll-box ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-  }
-
-  .news-scroll-box li {
-    margin-bottom: 10px;
-  }
-
-  .news-date {
-    font-weight: bold;
-    margin-right: 5px;
-  }
-</style>
+<link rel="stylesheet" type="text/css" href="{{ '/assets/css/style.css' | relative_url }}">
   
 <div class="post">
   <article>
