@@ -23,56 +23,51 @@ These interests find applications in diverse areas, including but not limited to
 
 
   <!-- News Window with Scroll-through Function -->
-  <div class="news-container">
-    <div class="news-post">
-      <h3>News 1</h3>
-      <p>Content of News Post 1...</p>
-    </div>
-    <div class="news-post">
-      <h3>News Post 2</h3>
-      <p>Content of News Post 2...</p>
-    </div>
-    <!-- Add more news posts as needed -->
-  </div>
+<style>
+  /* Inline styles for the scrolling news box */
+  .news-scroll-box {
+    max-height: 300px;  // Adjust the maximum height as needed
+    overflow-y: auto;
+    border: 1px solid #ddd;  // Add a border for better visibility
+    padding: 10px;
+  }
 
-  <style>
-    .news-container {
-      max-height: 300px;
-      overflow-y: scroll;
-      border: 1px solid #ccc;
-      padding: 10px;
-      margin-bottom: 10px;
-    }
+  .news-scroll-box ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
 
-    .news-post {
-      border-bottom: 1px solid #ccc;
-      padding-bottom: 10px;
-      margin-bottom: 10px;
-    }
-  </style>
-  <!-- End of News Window -->
+  .news-scroll-box li {
+    margin-bottom: 10px;
+  }
 
-
-
-<!--
+  .news-date {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+</style>
+  
 <div class="post">
   <article>
     <!-- Scrolling news box -->
     <div class="news-scroll-box">
       <h2>News</h2>
       <ul>
-        <li>News item 1</li>
-        <li>News item 2</li>
-        <li>News item 2</li>
-        <li>News item 2</li>
-        <li>News item 2</li>
-        <li>News item 2</li>
-        <li>News item 2</li>
-        <li>News item 2</li>
+        {% for news_item in site.news %}
+          <li>
+            <span class="news-date">{{ news_item.date | date: "%B %d, %Y" }}:</span>
+            <span class="news-title">{{ news_item.title }}</span>
+          </li>
+        {% endfor %}
       </ul>
     </div>
   </article>
 </div>
+<!-- End of News Window -->
+
+
+<!--
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=R_jX8VBZ0VOhrOvxXZ_ZTIgKn7Fxg_Vb1piiI5xolhc&cl=ffffff&w=210&h=140"></script>
 
