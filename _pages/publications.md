@@ -38,7 +38,7 @@ author_profile: true
 ## Conference Abstract and Posters
 ------
 {% for post in site.publications reversed %}
-  {% if post.tags contains 'Abstract' or post.tags contains 'Posters' %}
+  {% if post.tags contains 'Abstract' or post.tags contains 'Poster' %}
     {% include archive-single.html %}
     {% if page.authors %}
       <p><strong>Authors:</strong> {{ page.authors | markdownify }}</p>
