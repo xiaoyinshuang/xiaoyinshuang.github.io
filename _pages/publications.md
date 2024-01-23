@@ -34,3 +34,14 @@ author_profile: true
     {% endif %}
   {% endif %}
 {% endfor %}
+
+## Conference Abstract and Posters
+------
+{% for post in site.publications reversed %}
+  {% if post.tags contains 'Abstract and Posters' %}
+    {% include archive-single.html %}
+    {% if page.authors %}
+      <p><strong>Authors:</strong> {{ page.authors | markdownify }}</p>
+    {% endif %}
+  {% endif %}
+{% endfor %}
