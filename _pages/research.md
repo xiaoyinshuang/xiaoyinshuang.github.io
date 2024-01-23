@@ -8,5 +8,5 @@ The central hypothesis of my dissertation research is that the statistically sig
 
 <div style="text-align: center">
 <img src="/files/research_framework.png" 
-     width="876px" height="362px"/>
+     width="800px" height="331px"/>
 </div>
