@@ -1,4 +1,5 @@
 ---
+layout: about_page
 permalink: /
 title: "About Me"
 excerpt: "About Me"
