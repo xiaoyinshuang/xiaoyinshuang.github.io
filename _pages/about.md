@@ -23,16 +23,10 @@ These interests find applications in diverse areas, including but not limited to
 
 News
 ------
-<div style="overflow: auto; height:150pt; width:100%;">
-  * **Nov 2023:** ddd
-  * **Oct 2023:** XYZ!
-  - [01/2024] &nbsp;&nbsp; Served as a reviewer for [CSER 2024](https://cser.info/cser2023/cser2024/)
-  - [01/2024] &nbsp;&nbsp; Served as a reviewer for [CSER 2024](https://cser.info/cser2023/cser2024/)
-  - [11/2023] &nbsp;&nbsp; Presented our [recent work](/files/abstract4.pdf) at [CESUN 2023](https://cesun.org/)
-  - [11/2023] &nbsp;&nbsp; Served as a volunteer for [CESUN 2023](https://cesun.org/)
-  - [06/2023] &nbsp;&nbsp; I will join [Ford Motor Company](https://www.ford.com/) as a data scientist intern
-</div>
-&nbsp;
+- [01/2024] &nbsp;&nbsp; Served as a reviewer for [CSER 2024](https://cser.info/cser2023/cser2024/)
+- [11/2023] &nbsp;&nbsp; Presented our [recent work](/files/abstract4.pdf) at [CESUN 2023](https://cesun.org/)
+- [11/2023] &nbsp;&nbsp; Served as a volunteer for [CESUN 2023](https://cesun.org/)
+- [06/2023] &nbsp;&nbsp; I will join [Ford Motor Company](https://www.ford.com/) as a data scientist intern
 
 
 <!--
