@@ -64,6 +64,9 @@
       {% if post.paperurl %}
         <a href="{{ site.baseurl }}{{ post.paperurl }}" style="margin-right: 10px;">Paper</a>
       {% endif %}
+      {% if post.doiurl %}
+        <a href="{{ post.doiurl }}" style="margin-right: 10px;">DOI</a>
+      {% endif %}
       {% if post.posterlink %}
         <a href="{{ post.posterlink }}" style="margin-right: 10px;">Poster</a>
       {% endif %}
