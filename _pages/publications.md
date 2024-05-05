@@ -17,7 +17,7 @@ author_profile: true
 ------
 {% for post in site.publications reversed %}
   {% if post.tags contains 'Journal' %}
-    {% include archive-single-old.html %}
+    {% include archive-single-publications.html %}
     {% if page.authors %}
       <p><strong>Authors:</strong> {{ page.authors | markdownify }}</p>
     {% endif %}
@@ -28,7 +28,7 @@ author_profile: true
 ------
 {% for post in site.publications reversed %}
   {% if post.tags contains 'Conference' %}
-    {% include archive-single-old.html %}
+    {% include archive-single-publications.html %}
     {% if page.authors %}
       <p><strong>Authors:</strong> {{ page.authors | markdownify }}</p>
     {% endif %}
@@ -39,7 +39,7 @@ author_profile: true
 ------
 {% for post in site.publications reversed %}
   {% if post.tags contains 'Abstract' or post.tags contains 'Poster' %}
-    {% include archive-single-old.html %}
+    {% include archive-single-publications.html %}
     {% if page.authors %}
       <p><strong>Authors:</strong> {{ page.authors | markdownify }}</p>
     {% endif %}
