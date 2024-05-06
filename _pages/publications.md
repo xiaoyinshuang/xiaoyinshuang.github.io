@@ -35,7 +35,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-## Conference Abstract and Posters
+## Conference Abstracts and Posters
 ------
 {% for post in site.publications reversed %}
   {% if post.tags contains 'Abstract' or post.tags contains 'Poster' %}
