@@ -24,7 +24,7 @@ These interests find applications in diverse areas, including but not limited to
 News
 ------
 - [05/2024] &nbsp;&nbsp; I'm thrilled to announce that I successfully defended my Ph.D. on 05/09/2024! Heartfelt thanks to everyone who has been part of this incredible journey!
-- [05/2024] &nbsp;&nbsp; Served as a reviewer for [IDETC-CIE 2024](https://event.asme.org/IDETC-CIE)
+- [05/2024] &nbsp;&nbsp; One paper was accepted by [IDETC-CIE 2024](https://event.asme.org/IDETC-CIE)
 - [04/2024] &nbsp;&nbsp; Served as a reviewer for [IDETC-CIE 2024](https://event.asme.org/IDETC-CIE)
 - [03/2024] &nbsp;&nbsp; I was invited to deliver my concluding internship presentation at [Ford](https://www.ford.com/)
 - [01/2024] &nbsp;&nbsp; Served as a reviewer for [CSER 2024](https://cser.info/cser2023/cser2024/)
