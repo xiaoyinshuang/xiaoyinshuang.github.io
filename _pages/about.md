@@ -23,6 +23,9 @@ These interests find applications in diverse areas, including but not limited to
 
 News
 ------
+- [08/2024] &nbsp;&nbsp; [One paper](https://asmedigitalcollection.asme.org/mechanicaldesign/article/145/9/091703/1163699/Graph-Neural-Network-Based-Design-Decision-Support) won the 2023 ASME Journal of Mechanical Design [Editor’s Choice (Best Paper) Award](https://asmejmd.org/editors-choice-award/) Honorable Mention
+- [08/2024] &nbsp;&nbsp; One paper was accepted by [Journal of Mechanical Design (JMD)](https://asmedigitalcollection.asme.org/mechanicaldesign)
+- [07/2024] &nbsp;&nbsp; One paper was accepted by [Journal of Computing and Information Science in Engineering (JCISE)](https://asmedigitalcollection.asme.org/computingengineering)
 - [05/2024] &nbsp;&nbsp; I'm thrilled to announce that I successfully defended my Ph.D. on 05/09/2024! Heartfelt thanks to everyone who has been part of this incredible journey!
 - [05/2024] &nbsp;&nbsp; One paper was accepted by [IDETC-CIE 2024](https://event.asme.org/IDETC-CIE)
 - [04/2024] &nbsp;&nbsp; Served as a reviewer for [IDETC-CIE 2024](https://event.asme.org/IDETC-CIE)
