@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a fifth-year Ph.D. candidate in the [Walker Department of Mechanical Engineering at the University of Texas at Austin](https://www.me.utexas.edu/) under the supervision of [Dr. Zhenghui Sha](https://www.me.utexas.edu/people/faculty-directory/sha). I earned my M.S. and B.Eng. in Mechanical Engineering at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Before my Ph.D., I gained a year of valuable industry experience at [SAIC Volkswagen in Shanghai](https://volkswagengroupchina.com.cn/en/partner/saicvolkswagen).  
+Welcome! I am currently a postdoctoral fellow in the [Walker Department of Mechanical Engineering at the University of Texas at Austin](https://www.me.utexas.edu/) under the supervision of [Dr. Zhenghui Sha](https://www.me.utexas.edu/people/faculty-directory/sha). I earned my Ph.D. in Mechanical Engineering from [the University of Texas at Austin](https://www.utexas.edu/) and my M.S. and B.Eng. degrees in Mechanical Engineering from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Before my Ph.D., I gained a year of valuable industry experience at [SAIC Volkswagen in Shanghai](https://volkswagengroupchina.com.cn/en/partner/saicvolkswagen).  
 
 Research Interests
 ======
