@@ -23,6 +23,7 @@ These interests find applications in diverse areas, including but not limited to
 
 News
 ------
+- [09/2024] &nbsp;&nbsp; I am honored to have been invited to participate in the [2024 Rising Stars in Mechanical Engineering workshop](https://www.meche.engineering.cmu.edu/rising-stars.html), which will be held in person at Carnegie Mellon University on October 3-4, 2024.
 - [08/2024] &nbsp;&nbsp; [One paper](https://asmedigitalcollection.asme.org/mechanicaldesign/article/145/9/091703/1163699/Graph-Neural-Network-Based-Design-Decision-Support) won the 2023 ASME Journal of Mechanical Design [Editor’s Choice (Best Paper) Award](https://asmejmd.org/editors-choice-award/) Honorable Mention
 - [08/2024] &nbsp;&nbsp; One paper was accepted by [Journal of Mechanical Design (JMD)](https://asmedigitalcollection.asme.org/mechanicaldesign)
 - [07/2024] &nbsp;&nbsp; One paper was accepted by [Journal of Computing and Information Science in Engineering (JCISE)](https://asmedigitalcollection.asme.org/computingengineering)
