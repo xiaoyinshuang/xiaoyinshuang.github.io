@@ -36,28 +36,29 @@ News
 - [11/2023] &nbsp;&nbsp; Presented our [recent work](/files/abstract4.pdf) at [CESUN 2023](https://cesun.org/)
 - [11/2023] &nbsp;&nbsp; Served as a volunteer for [CESUN 2023](https://cesun.org/)
 - [06/2023] &nbsp;&nbsp; I will join [Ford Motor Company](https://www.ford.com/) as a data scientist intern
+
 -->
 
 News
 ------
 <div style="height: 300px; overflow-y: scroll;">
   <ul>
-  	<li>[09/2024] &nbsp;&nbsp; I am honored to have been invited to participate in the [2024 Rising Stars in Mechanical Engineering workshop](https://www.meche.engineering.cmu.edu/rising-stars.html), which will be held in person at Carnegie Mellon University on October 3-4, 2024. </li>
-    <li>[08/2024] &nbsp;&nbsp; [One paper](https://asmedigitalcollection.asme.org/mechanicaldesign/article/145/9/091703/1163699/Graph-Neural-Network-Based-Design-Decision-Support) won the 2023 ASME Journal of Mechanical Design [Editor’s Choice (Best Paper) Award](https://asmejmd.org/editors-choice-award/) Honorable Mention </li>
-    <li>[08/2024] &nbsp;&nbsp; One paper was accepted by [Journal of Mechanical Design (JMD)](https://asmedigitalcollection.asme.org/mechanicaldesign) </li>
-    <li>[07/2024] &nbsp;&nbsp; One paper was accepted by [Journal of Computing and Information Science in Engineering (JCISE)](https://asmedigitalcollection.asme.org/computingengineering)</li>
+  	<li>[09/2024] &nbsp;&nbsp; I am honored to have been invited to participate in the <a href="https://www.meche.engineering.cmu.edu/rising-stars.html">2024 Rising Stars in Mechanical Engineering workshop</a>, which will be held in person at Carnegie Mellon University on October 3-4, 2024. </li>
+    <li>[08/2024] &nbsp;&nbsp; <a href="https://asmedigitalcollection.asme.org/mechanicaldesign/article/145/9/091703/1163699/Graph-Neural-Network-Based-Design-Decision-Support">One paper</a> won the 2023 ASME Journal of Mechanical Design <a href="https://asmejmd.org/editors-choice-award/">Editor’s Choice (Best Paper) Award</a> Honorable Mention </li>
+    <li>[08/2024] &nbsp;&nbsp; One paper was accepted by the <a href="https://asmedigitalcollection.asme.org/mechanicaldesign">Journal of Mechanical Design (JMD)</a> </li>
+    <li>[07/2024] &nbsp;&nbsp; One paper was accepted by the <a href="https://asmedigitalcollection.asme.org/computingengineering">Journal of Computing and Information Science in Engineering (JCISE)</a></li>
     <li>[05/2024] &nbsp;&nbsp; I'm thrilled to announce that I successfully defended my Ph.D. on 05/09/2024! Heartfelt thanks to everyone who has been part of this incredible journey!</li>
-    <li>[05/2024] &nbsp;&nbsp; One paper was accepted by [IDETC-CIE 2024](https://event.asme.org/IDETC-CIE)</li>
-    <li>[04/2024] &nbsp;&nbsp; Served as a reviewer for [IDETC-CIE 2024](https://event.asme.org/IDETC-CIE)</li>
-    <li>[03/2024] &nbsp;&nbsp; I was invited to deliver my concluding internship presentation at [Ford](https://www.ford.com/)</li>
-    <li>[01/2024] &nbsp;&nbsp; Served as a reviewer for [CSER 2024](https://cser.info/cser2023/cser2024/)</li>
-    <li>[11/2023] &nbsp;&nbsp; Presented our [recent work](/files/abstract4.pdf) at [CESUN 2023](https://cesun.org/)</li>
-    <li>[11/2023] &nbsp;&nbsp; Served as a volunteer for [CESUN 2023](https://cesun.org/)</li>
-    <li>[06/2023] &nbsp;&nbsp; I will join [Ford Motor Company](https://www.ford.com/) as a data scientist intern</li>
-    <!-- <li>2023-01-25: Awarded research grant by the National Science Foundation.</li> -->
-    <!-- Add more news items here -->
+    <li>[05/2024] &nbsp;&nbsp; One paper was accepted by <a href="https://event.asme.org/IDETC-CIE">IDETC-CIE 2024</a></li>
+    <li>[04/2024] &nbsp;&nbsp; Served as a reviewer for <a href="https://event.asme.org/IDETC-CIE">IDETC-CIE 2024</a></li>
+    <li>[03/2024] &nbsp;&nbsp; I was invited to deliver my concluding internship presentation at <a href="https://www.ford.com/">Ford</a></li>
+    <li>[01/2024] &nbsp;&nbsp; Served as a reviewer for <a href="https://cser.info/cser2023/cser2024/">CSER 2024</a></li>
+    <li>[11/2023] &nbsp;&nbsp; Presented our <a href="/files/abstract4.pdf">recent work</a> at <a href="https://cesun.org/">CESUN 2023</a></li>
+    <li>[11/2023] &nbsp;&nbsp; Served as a volunteer for <a href="https://cesun.org/">CESUN 2023</a></li>
+    <li>[06/2023] &nbsp;&nbsp; I will join <a href="https://www.ford.com/">Ford Motor Company</a> as a data scientist intern</li>
   </ul>
 </div>
+
+
 
 
 <!--
