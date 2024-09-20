@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yinshuang Xiao"
+title                    : "Yinshuang Xiao (肖银双)"
 title_separator          : "-"
 name                     : &name "Yinshuang Xiao"
 description              : &description "Postdoctoral Fellow at The University of Texas at Austin"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/yinshuang-xiao-863933191/"
+  LinkedIn         : "yinshuang-xiao-863933191"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
