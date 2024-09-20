@@ -21,6 +21,7 @@ My broad research interests span the domains of
 
 These interests find applications in diverse areas, including but not limited to manufacturing systems, market systems, energy systems (e.g., smart power grid), EV ecosystems (EV market systems and EV charging infrastructure systems), and smart transportation systems. Throughout my Ph.D. studies, I have accumulated substantial research experience, particularly in network-based complex socio-technical system engineering and design. My research findings have been disseminated through publications in reputable engineering journals and conferences such as [*Design Science*](https://www.cambridge.org/core/journals/design-science), [*Journal of Mechanical Engineering*](https://asmedigitalcollection.asme.org/mechanicaldesign), [*IDETC/CIE*](https://event.asme.org/IDETC-CIE-2023), [*ICED*](https://iced21.designsociety.org/#:~:text=16th%20%2D%2020th%20August%202021,for%20designers%20and%20product%20developers.), [*CESUN*](https://cesun.org/), [*NetSci*](https://networks2021.net/), and [*CSER*](https://cser.info/cser2023/).
 
+<!--
 News
 ------
 - [09/2024] &nbsp;&nbsp; I am honored to have been invited to participate in the [2024 Rising Stars in Mechanical Engineering workshop](https://www.meche.engineering.cmu.edu/rising-stars.html), which will be held in person at Carnegie Mellon University on October 3-4, 2024.
@@ -35,6 +36,28 @@ News
 - [11/2023] &nbsp;&nbsp; Presented our [recent work](/files/abstract4.pdf) at [CESUN 2023](https://cesun.org/)
 - [11/2023] &nbsp;&nbsp; Served as a volunteer for [CESUN 2023](https://cesun.org/)
 - [06/2023] &nbsp;&nbsp; I will join [Ford Motor Company](https://www.ford.com/) as a data scientist intern
+-->
+
+News
+------
+<div style="height: 300px; overflow-y: scroll;">
+  <ul>
+  	<li>[09/2024] &nbsp;&nbsp; I am honored to have been invited to participate in the [2024 Rising Stars in Mechanical Engineering workshop](https://www.meche.engineering.cmu.edu/rising-stars.html), which will be held in person at Carnegie Mellon University on October 3-4, 2024. </li>
+    <li>[08/2024] &nbsp;&nbsp; [One paper](https://asmedigitalcollection.asme.org/mechanicaldesign/article/145/9/091703/1163699/Graph-Neural-Network-Based-Design-Decision-Support) won the 2023 ASME Journal of Mechanical Design [Editor’s Choice (Best Paper) Award](https://asmejmd.org/editors-choice-award/) Honorable Mention </li>
+    <li>[08/2024] &nbsp;&nbsp; One paper was accepted by [Journal of Mechanical Design (JMD)](https://asmedigitalcollection.asme.org/mechanicaldesign) </li>
+    <li>[07/2024] &nbsp;&nbsp; One paper was accepted by [Journal of Computing and Information Science in Engineering (JCISE)](https://asmedigitalcollection.asme.org/computingengineering)</li>
+    <li>[05/2024] &nbsp;&nbsp; I'm thrilled to announce that I successfully defended my Ph.D. on 05/09/2024! Heartfelt thanks to everyone who has been part of this incredible journey!</li>
+    <li>[05/2024] &nbsp;&nbsp; One paper was accepted by [IDETC-CIE 2024](https://event.asme.org/IDETC-CIE)</li>
+    <li>[04/2024] &nbsp;&nbsp; Served as a reviewer for [IDETC-CIE 2024](https://event.asme.org/IDETC-CIE)</li>
+    <li>[03/2024] &nbsp;&nbsp; I was invited to deliver my concluding internship presentation at [Ford](https://www.ford.com/)</li>
+    <li>[01/2024] &nbsp;&nbsp; Served as a reviewer for [CSER 2024](https://cser.info/cser2023/cser2024/)</li>
+    <li>[11/2023] &nbsp;&nbsp; Presented our [recent work](/files/abstract4.pdf) at [CESUN 2023](https://cesun.org/)</li>
+    <li>[11/2023] &nbsp;&nbsp; Served as a volunteer for [CESUN 2023](https://cesun.org/)</li>
+    <li>[06/2023] &nbsp;&nbsp; I will join [Ford Motor Company](https://www.ford.com/) as a data scientist intern</li>
+    <!-- <li>2023-01-25: Awarded research grant by the National Science Foundation.</li> -->
+    <!-- Add more news items here -->
+  </ul>
+</div>
 
 
 <!--
