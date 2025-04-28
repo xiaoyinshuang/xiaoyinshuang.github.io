@@ -13,7 +13,7 @@ In the era of ever-increasing social and technological interconnectedness, compl
 <p align="center"><em>Figure 1: Research Overview</em></p>
 </div>
 
-For more details about my research experience and plan, please 
+For more details about my research experience and plan, please review my [Research Statement](/files/Research_Statement_YX.pdf) 
 
 
 
