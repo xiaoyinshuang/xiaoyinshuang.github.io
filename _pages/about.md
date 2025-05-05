@@ -18,6 +18,7 @@ I’m thrilled to share that I’ll be joining the Department of Systems Enginee
 
 **Undergrad and MS students:** If my research topics excite you, don't hesitate to reach out at [Yinshuang.Xiao@colostate.edu](mailto:yinshuang.xiao@colostate.edu) with the subject line “*Perspective Undergrad / MS to Cosine Lab*.” I’m always happy to chat about research opportunities, collaborations, or just share more about our work.
 
+Due to the high volume of emails, I may not be able to respond to every inquiry individually. However, I carefully review all submissions and will reach out to candidates who are a strong fit for available opportunities. Thank you for your understanding and patience.
 
 News
 ------
