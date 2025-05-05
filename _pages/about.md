@@ -24,8 +24,9 @@ News
 ------
 <div style="height: 300px; overflow-y: scroll;">
   <ul>
-    <li>[03/2024] &nbsp;&nbsp; Served as a reviewer for <a href="https://event.asme.org/IDETC-CIE">IDETC-CIE 2025</a></li>
-    <li>[12/2024] &nbsp;&nbsp; Served as a reviewer for <a href="https://asmedigitalcollection.asme.org/mechanicaldesign">Journal of Mechanical Design (JMD)</a></li>
+    <li>[04/2025] &nbsp;&nbsp; One paper was accepted by <a href="https://event.asme.org/IDETC-CIE">IDETC-CIE 2025</a></li>
+    <li>[03/2025] &nbsp;&nbsp; Served as a reviewer for <a href="https://event.asme.org/IDETC-CIE">IDETC-CIE 2025</a></li>
+    <li>[12/2025] &nbsp;&nbsp; Served as a reviewer for <a href="https://asmedigitalcollection.asme.org/mechanicaldesign">Journal of Mechanical Design (JMD)</a></li>
     <li>[11/2024] &nbsp;&nbsp; Served as a reviewer for <a href="https://asmedigitalcollection.asme.org/computingengineering">Journal of Computing and Information Science in Engineering (JCISE)</a></li>
   	<li>[09/2024] &nbsp;&nbsp; I am honored to have been invited to participate in the <a href="https://www.meche.engineering.cmu.edu/rising-stars.html">2024 Rising Stars in Mechanical Engineering workshop</a>, which will be held in person at Carnegie Mellon University on October 3-4, 2024. </li>
     <li>[08/2024] &nbsp;&nbsp; <a href="https://asmedigitalcollection.asme.org/mechanicaldesign/article/145/9/091703/1163699/Graph-Neural-Network-Based-Design-Decision-Support">One paper</a> won the 2023 ASME Journal of Mechanical Design <a href="https://asmejmd.org/editors-choice-award/">Editor’s Choice (Best Paper) Award</a> Honorable Mention </li>
