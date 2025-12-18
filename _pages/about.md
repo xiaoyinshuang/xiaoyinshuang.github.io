@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a postdoctoral fellow in the [Walker Department of Mechanical Engineering at the University of Texas at Austin](https://www.me.utexas.edu/) under the supervision of [Dr. Zhenghui Sha](https://www.me.utexas.edu/people/faculty-directory/sha). I earned my Ph.D. in Mechanical Engineering from [the University of Texas at Austin](https://www.utexas.edu/) and my M.S. and B.Eng. degrees in Mechanical Engineering from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Before my Ph.D., I gained a year of valuable industry experience at [SAIC Volkswagen in Shanghai](https://volkswagengroupchina.com.cn/en/partner/saicvolkswagen).  
+Welcome! I am currently a Tenure-Track Assistant Professor in the [Department of Systems Engineering at Colorado State University](https://www.engr.colostate.edu/se/). Before, I was a postdoctoral fellow in the [Walker Department of Mechanical Engineering at the University of Texas at Austin](https://www.me.utexas.edu/) under the supervision of [Dr. Zhenghui Sha](https://www.me.utexas.edu/people/faculty-directory/sha). I earned my Ph.D. in Mechanical Engineering from [the University of Texas at Austin](https://www.utexas.edu/) and my M.S. and B.Eng. degrees in Mechanical Engineering from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Before my Ph.D., I gained a year of valuable industry experience at [SAIC Volkswagen in Shanghai](https://volkswagengroupchina.com.cn/en/partner/saicvolkswagen).  
 
 Openings
 ======
-I’m thrilled to share that I’ll be joining the Department of Systems Engineering at Colorado State University as a Tenure-Track Assistant Professor in Fall 2025! 
-
 **Ph.D. Positions:** My research group, the [COSINE LAB](https://cosine-lab.github.io/cosinelab.org/), will have 1–2 fully funded Ph.D. openings starting in Spring 2026 or Fall 2026. If you’re interested in research about complex systems, network science, or data-driven design. I’d love to hear from you! To apply, please email me at [Yinshuang.Xiao@colostate.edu](mailto:yinshuang.xiao@colostate.edu) with the subject line “*GRA Application to Cosine Lab*.” and include your CV, transcripts, and a brief summary of your research interests and experience. For full details, see the [*Call For Application*](/files/PhD_Recuit_Cosine_Lab_CSU.pdf)
 
 **Undergrad and MS students:** If my research topics excite you, don't hesitate to reach out at [Yinshuang.Xiao@colostate.edu](mailto:yinshuang.xiao@colostate.edu) with the subject line “*Perspective Undergrad / MS to Cosine Lab*.” I’m always happy to chat about research opportunities, collaborations, or just share more about our work.
@@ -24,6 +22,8 @@ News
 ------
 <div style="height: 300px; overflow-y: scroll;">
   <ul>
+    <li>[08/2025] &nbsp;&nbsp; Officiall join the <a href="https://www.engr.colostate.edu/se/">Department of Systems Engineering at Colorado State University</a> as a Tenure-Track Assistant Professor</li>
+    <li>[08/2025] &nbsp;&nbsp; Appointed to the Editorial Board of the <a href="https://cvent.utexas.edu/event/cirp-cms/home">CIRP Conference on Manufacturing Systems (CIRP CMS)</a></li>
     <li>[04/2025] &nbsp;&nbsp; One paper was accepted by <a href="https://event.asme.org/IDETC-CIE">IDETC-CIE 2025</a></li>
     <li>[03/2025] &nbsp;&nbsp; Served as a reviewer for <a href="https://event.asme.org/IDETC-CIE">IDETC-CIE 2025</a></li>
     <li>[12/2025] &nbsp;&nbsp; Served as a reviewer for <a href="https://asmedigitalcollection.asme.org/mechanicaldesign">Journal of Mechanical Design (JMD)</a></li>
