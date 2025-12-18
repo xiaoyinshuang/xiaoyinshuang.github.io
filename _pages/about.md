@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a Tenure-Track Assistant Professor in the [Department of Systems Engineering at Colorado State University](https://www.engr.colostate.edu/se/). Before, I was a postdoctoral fellow in the [Walker Department of Mechanical Engineering at the University of Texas at Austin](https://www.me.utexas.edu/) under the supervision of [Dr. Zhenghui Sha](https://www.me.utexas.edu/people/faculty-directory/sha). I earned my Ph.D. in Mechanical Engineering from [the University of Texas at Austin](https://www.utexas.edu/) and my M.S. and B.Eng. degrees in Mechanical Engineering from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Before my Ph.D., I gained a year of valuable industry experience at [SAIC Volkswagen in Shanghai](https://volkswagengroupchina.com.cn/en/partner/saicvolkswagen).  
+Welcome! I am a Tenure-Track Assistant Professor in the [Department of Systems Engineering at Colorado State University](https://www.engr.colostate.edu/se/). Before, I was a postdoctoral fellow in the [Walker Department of Mechanical Engineering at the University of Texas at Austin](https://www.me.utexas.edu/) under the supervision of [Dr. Zhenghui Sha](https://www.me.utexas.edu/people/faculty-directory/sha). I earned my Ph.D. in Mechanical Engineering from [the University of Texas at Austin](https://www.utexas.edu/) and my M.S. and B.Eng. degrees in Mechanical Engineering from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Before my Ph.D., I gained a year of valuable industry experience at [SAIC Volkswagen in Shanghai](https://volkswagengroupchina.com.cn/en/partner/saicvolkswagen).  
 
 Openings
 ======
@@ -22,7 +22,7 @@ News
 ------
 <div style="height: 300px; overflow-y: scroll;">
   <ul>
-    <li>[08/2025] &nbsp;&nbsp; Officiall join the <a href="https://www.engr.colostate.edu/se/">Department of Systems Engineering at Colorado State University</a> as a Tenure-Track Assistant Professor</li>
+    <li>[08/2025] &nbsp;&nbsp; Officially join the <a href="https://www.engr.colostate.edu/se/">Department of Systems Engineering at Colorado State University</a> as a Tenure-Track Assistant Professor</li>
     <li>[08/2025] &nbsp;&nbsp; Appointed to the Editorial Board of the <a href="https://cvent.utexas.edu/event/cirp-cms/home">CIRP Conference on Manufacturing Systems (CIRP CMS)</a></li>
     <li>[04/2025] &nbsp;&nbsp; One paper was accepted by <a href="https://event.asme.org/IDETC-CIE">IDETC-CIE 2025</a></li>
     <li>[03/2025] &nbsp;&nbsp; Served as a reviewer for <a href="https://event.asme.org/IDETC-CIE">IDETC-CIE 2025</a></li>
