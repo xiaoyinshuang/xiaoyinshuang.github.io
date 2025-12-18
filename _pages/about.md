@@ -12,7 +12,7 @@ Welcome! I am currently a Tenure-Track Assistant Professor in the [Department of
 
 Openings
 ======
-**Ph.D. Positions:** My research group, the [COSINE LAB](https://cosine-lab.github.io/cosinelab.org/), will have 1–2 fully funded Ph.D. openings starting in Spring 2026 or Fall 2026. If you’re interested in research about complex systems, network science, or data-driven design. I’d love to hear from you! To apply, please email me at [Yinshuang.Xiao@colostate.edu](mailto:yinshuang.xiao@colostate.edu) with the subject line “*GRA Application to Cosine Lab*.” and include your CV, transcripts, and a brief summary of your research interests and experience. For full details, see the [*Call For Application*](/files/PhD_Recuit_Cosine_Lab_CSU.pdf)
+**Ph.D. Positions:** My research group, the [COSINE LAB](https://cosine-lab.github.io/cosinelab.org/), will have one fully funded Ph.D. openings starting in Spring 2026 or Fall 2026. If you’re interested in research about complex systems, network science, or data-driven design. I’d love to hear from you! To apply, please email me at [Yinshuang.Xiao@colostate.edu](mailto:yinshuang.xiao@colostate.edu) with the subject line “*GRA Application to Cosine Lab*.” and include your CV, transcripts, and a brief summary of your research interests and experience. For full details, see the [*Call For Application*](/files/PhD_Recuit_Cosine_Lab_CSU.pdf)
 
 **Undergrad and MS students:** If my research topics excite you, don't hesitate to reach out at [Yinshuang.Xiao@colostate.edu](mailto:yinshuang.xiao@colostate.edu) with the subject line “*Perspective Undergrad / MS to Cosine Lab*.” I’m always happy to chat about research opportunities, collaborations, or just share more about our work.
 
