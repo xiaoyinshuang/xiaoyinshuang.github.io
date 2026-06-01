@@ -12,9 +12,11 @@ Welcome! I am a Tenure-Track Assistant Professor in the [Department of Systems E
 
 Openings
 ======
-**Ph.D. Positions:** My research group, the [COSINE LAB](https://cosine-lab.github.io/cosinelab.org/), will have one fully funded Ph.D. openings starting in Spring 2026 or Fall 2026. If you’re interested in research about complex systems, network science, or data-driven design. I’d love to hear from you! To apply, please email me at [Yinshuang.Xiao@colostate.edu](mailto:yinshuang.xiao@colostate.edu) with the subject line “*GRA Application to Cosine Lab*.” and include your CV, transcripts, and a brief summary of your research interests and experience. For full details, see the [*Call For Application*](/files/PhD_Recuit_Cosine_Lab_CSU.pdf)
+**GRA Positions:** Thank you for your interest in the COSINE Lab! Currently, we do not have any fully funded GRA positions available. However, our group is growing, and we will reopen applications as soon as new funding becomes available. Please check back in the future!
 
-**Undergrad and MS students:** If my research topics excite you, don't hesitate to reach out at [Yinshuang.Xiao@colostate.edu](mailto:yinshuang.xiao@colostate.edu) with the subject line “*Perspective Undergrad / MS to Cosine Lab*.” I’m always happy to chat about research opportunities, collaborations, or just share more about our work.
+**Ph.D. Students:** We are always looking for passionate minds to join us! If you are excited about complex systems, network science, or data-driven design, I would love to hear from you. Please feel free to reach out to me at [Yinshuang.Xiao@colostate.edu](mailto:yinshuang.xiao@colostate.edu) with the subject line “*Prospective Ph.D. Student to COSINE Lab*.” and include your CV, transcripts, and a brief summary of your research interests and experience. We’re excited to welcome new Cosiners to our team!
+
+**Undergrad and MS Students:** If my research topics excite you, don't hesitate to reach out at [Yinshuang.Xiao@colostate.edu](mailto:yinshuang.xiao@colostate.edu) with the subject line “*Perspective Undergrad / MS to Cosine Lab*.” I’m always happy to chat about research opportunities, collaborations, or just share more about our work.
 
 Due to the high volume of emails, I may not be able to respond to every inquiry individually. However, I carefully review all submissions and will reach out to candidates who are a strong fit for available opportunities. Thank you for your understanding and patience.
 
@@ -22,8 +24,14 @@ News
 ------
 <div style="height: 300px; overflow-y: scroll;">
   <ul>
+    <li>[05/2026] &nbsp;&nbsp; Served as NSF Panelist</li>
+    <li>[05/2026] &nbsp;&nbsp; Served as session chair for <a href="[https://event.asme.org/IDETC-CIE](https://cvent.utexas.edu/event/cirp-cms/home)">59th CIRP Conference on Manufacturing Systems 2026</a></li>
+    <li>[05/2026] &nbsp;&nbsp; Two papers were accepted by <a href="https://event.asme.org/IDETC-CIE">IDETC-CIE 2026</a></li>
+    <li>[02/2026] &nbsp;&nbsp; Served as a panelist for DSRI AI and Research Computing Event, Colorado State University, 2026</li>
+    <li>[01/2026] &nbsp;&nbsp; Served as 2026 ASME CIE Hackathon Chair</li>
     <li>[08/2025] &nbsp;&nbsp; Officially join the <a href="https://www.engr.colostate.edu/se/">Department of Systems Engineering at Colorado State University</a> as a Tenure-Track Assistant Professor</li>
     <li>[08/2025] &nbsp;&nbsp; Appointed to the Editorial Board of the <a href="https://cvent.utexas.edu/event/cirp-cms/home">CIRP Conference on Manufacturing Systems (CIRP CMS)</a></li>
+    <li>[06/2025] &nbsp;&nbsp; Session chair for 10th International Engineering Systems Symposium: CESUN 2025
     <li>[04/2025] &nbsp;&nbsp; One paper was accepted by <a href="https://event.asme.org/IDETC-CIE">IDETC-CIE 2025</a></li>
     <li>[03/2025] &nbsp;&nbsp; Served as a reviewer for <a href="https://event.asme.org/IDETC-CIE">IDETC-CIE 2025</a></li>
     <li>[12/2025] &nbsp;&nbsp; Served as a reviewer for <a href="https://asmedigitalcollection.asme.org/mechanicaldesign">Journal of Mechanical Design (JMD)</a></li>
