@@ -33,7 +33,7 @@ News
     <li>[01/2026] &nbsp;&nbsp; Served as <a href="https://event.asme.org/IDETC-CIE/Program/Student-Hackathon">2026 ASME CIE Hackathon</a> Chair</li>
     <li>[08/2025] &nbsp;&nbsp; Officially join the <a href="https://www.engr.colostate.edu/se/">Department of Systems Engineering at Colorado State University</a> as a Tenure-Track Assistant Professor</li>
     <li>[08/2025] &nbsp;&nbsp; Appointed to the Editorial Board of the <a href="https://cvent.utexas.edu/event/cirp-cms/home">CIRP Conference on Manufacturing Systems (CIRP CMS)</a></li>
-    <li>[06/2025] &nbsp;&nbsp; Served as a session chair for 10th International Engineering Systems Symposium: CESUN 2025
+    <li>[06/2025] &nbsp;&nbsp; Served as a session chair for 10th International Engineering Systems Symposium: CESUN 2025</li>
     <li>[04/2025] &nbsp;&nbsp; One paper was accepted by <a href="https://event.asme.org/IDETC-CIE">IDETC-CIE 2025</a></li>
     <li>[03/2025] &nbsp;&nbsp; Served as a reviewer for <a href="https://event.asme.org/IDETC-CIE">IDETC-CIE 2025</a></li>
     <li>[12/2025] &nbsp;&nbsp; Served as a reviewer for <a href="https://asmedigitalcollection.asme.org/mechanicaldesign">Journal of Mechanical Design (JMD)</a></li>
