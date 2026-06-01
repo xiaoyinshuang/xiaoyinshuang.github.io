@@ -14,7 +14,7 @@ Welcome! I am a Tenure-Track Assistant Professor in the [Department of Systems E
 
 Openings
 ======
-**GRA Positions:** Thank you for your interest in the [COSINE LAB](https://cosine-lab.github.io/cosinelab.org/about/current_member/)! Currently, we do not have any fully funded GRA positions available. However, our group is growing, and we will reopen applications as soon as new funding becomes available. Please check back in the future!
+**GRA Positions:** Thank you for your interest in the [COSINE LAB](https://cosine-lab.github.io/cosinelab.org/)! Currently, we do not have any fully funded GRA positions available. However, our group is growing, and we will reopen applications as soon as new funding becomes available. Please check back in the future!
 
 **Ph.D. Students:** We are always looking for passionate minds to join us! If you are excited about complex systems, network science, or data-driven design, I would love to hear from you. Please feel free to reach out to me at [Yinshuang.Xiao@colostate.edu](mailto:yinshuang.xiao@colostate.edu) with the subject line “*Prospective Ph.D. Student to COSINE Lab*.” and include your CV, transcripts, and a brief summary of your research interests and experience. We’re excited to welcome new Cosiners to our team!
 
