@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I am a Tenure-Track Assistant Professor in the [Department of Systems Engineering at Colorado State University](https://www.engr.colostate.edu/se/). Before, I was a postdoctoral fellow in the [Walker Department of Mechanical Engineering at the University of Texas at Austin](https://www.me.utexas.edu/) under the supervision of [Dr. Zhenghui Sha](https://www.me.utexas.edu/people/faculty-directory/sha). I earned my Ph.D. in Mechanical Engineering from [the University of Texas at Austin](https://www.utexas.edu/) and my M.S. and B.Eng. degrees in Mechanical Engineering from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Before my Ph.D., I gained a year of valuable industry experience at [SAIC Volkswagen in Shanghai](https://volkswagengroupchina.com.cn/en/partner/saicvolkswagen).  
 
-**Group Website:** [COSINE LAB](https://cosine-lab.github.io/cosinelab.org/about/current_member/)
+**Group Website:** [COSINE LAB](https://cosine-lab.github.io/cosinelab.org/)
 
 Openings
 ======
